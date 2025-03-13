@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mateus</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🔭 I’m currently working on [React Native Virtualized Select](https://github.com/mateusslezinsky/react-native-virtualized-select)
+- 🔭 I’m currently working on [React Native Virtualized Select](https://github.com/mateusslezinsky/react-native-virtualized-select) and [Model Generator](https://github.com/mateusslezinsky/model-generator)
 
 - 🌱 I’m currently learning **Solidity**
 
-- 🤝 I’m looking for help with [React Native Virtualized Select](https://github.com/mateusslezinsky/react-native-virtualized-select)
+- 🤝 I’m looking for help with [Model Generator](https://github.com/mateusslezinsky/model-generator)
 
 - 👨‍💻 All of my projects are available at [https://github.com/mateusslezinsky](https://github.com/mateusslezinsky)
 
